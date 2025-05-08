@@ -40,4 +40,6 @@
 
 ### 🤝 Let's connect
 
+[@blockverse-vitaliy](https://github.com/blockverse-vitaliy/)
+
 Open to working on decentralized apps, crypto monitoring tools, or just chatting about Web3 trends!
