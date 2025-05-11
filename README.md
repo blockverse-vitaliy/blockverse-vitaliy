@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning advanced Solidity patterns and Layer 2 scaling solutions  
 - 💞️ I’m looking to collaborate on crypto tools, DeFi dashboards, or auditing smart contracts  
 - 📫 How to reach me: dovzhenkov97@gmail.com  or @VitaliyDovzhenko on TG
-- 😄 Pronouns: he/him  
+- 😄 Pronouns: he/him 
 - ⚡ Fun fact: I once built a smart contract just to track how many coffees I drank in a week ☕📈
 
 ---
